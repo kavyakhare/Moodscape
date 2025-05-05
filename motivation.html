@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motivation</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href = "favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="motivation.html" class = "active">Motivation</a></li>
+            <li><a href="journal.html">Journal</a></li>
+            <li><a href="chatbot.html">Chatbot</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+    </div>
+
+    <div>
+        <h1 class="ft" style="font-size: 60px; margin-top: 80px;">
+           <i>Feed your mind with healthy content. </i>
+        </h1>
+    </div>
+
+    <div class="slideshow-container">
+
+        <div class="mySlides fade">
+          <div class="numbertext">1 / 9</div>
+          <img src="1.jpg" style="width:500px; height: 500px;">
+        </div>
+        
+        <div class="mySlides fade">
+          <div class="numbertext">2 / 9</div>
+          <img src="2.jpg" style="width:500px; height: 500px;">
+          
+        </div>
+        
+        <div class="mySlides fade">
+          <div class="numbertext">3 / 9</div>
+          <img src="3.jpg" style="width:500px; height: 500px;">
+          
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">4 / 9</div>
+            <img src="4.jpg" style="width:500px; height: 500px;">
+            
+          </div>
+
+          <div class="mySlides fade">
+            <div class="numbertext">5 / 9</div>
+            <img src="5.jpg" style="width:500px; height: 500px;">
+            
+          </div>
+
+          <div class="mySlides fade">
+            <div class="numbertext">6 / 9</div>
+            <img src="6.jpg" style="width:500px; height: 500px;">
+            
+          </div>
+
+          <div class="mySlides fade">
+            <div class="numbertext">7 / 9</div>
+            <img src="7.jpg" style="width:500px; height: 500px;">
+            
+          </div>
+
+          <div class="mySlides fade">
+            <div class="numbertext">8 / 9</div>
+            <img src="8.jpg" style="width:500px; height: 500px;">
+            
+          </div>
+          <div class="mySlides fade">
+            <div class="numbertext">9 / 9</div>
+            <img src="9.jpg" style="width:500px; height: 500px;">
+            
+          </div>
+        
+        <a class="prev" onclick="plusSlides(-1)">❮</a>
+        <a class="next" onclick="plusSlides(1)">❯</a>
+        
+        </div>
+        <br>
+        
+        <div style="text-align:center">
+          <span class="dot" onclick="currentSlide(1)"></span> 
+          <span class="dot" onclick="currentSlide(2)"></span> 
+          <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span> 
+          <span class="dot" onclick="currentSlide(5)"></span> 
+          <span class="dot" onclick="currentSlide(6)"></span> 
+          <span class="dot" onclick="currentSlide(7)"></span> 
+          <span class="dot" onclick="currentSlide(8)"></span> 
+          <span class="dot" onclick="currentSlide(9)"></span>  
+        </div>
+        
+        <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+        
+        function plusSlides(n) {
+          showSlides(slideIndex += n);
+        }
+        
+        function currentSlide(n) {
+          showSlides(slideIndex = n);
+        }
+        
+        function showSlides(n) {
+          let i;
+          let slides = document.getElementsByClassName("mySlides");
+          let dots = document.getElementsByClassName("dot");
+          if (n > slides.length) {slideIndex = 1}    
+          if (n < 1) {slideIndex = slides.length}
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+          }
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+        }
+        </script>
+
+        <h2 class="ftbody" > <a style="color: #112D4E"href ="https://pin.it/64VOUMv">Read more.</a></h2>
+        <h1 class="ft" style="font-size: 40px;" > "Good content to your mind is what healthy food is to your body."  </h2>
+
+            <div class="grid-container">
+                <div class="grid-item"><img src = "tedx.jpg" style="width: 500px; height: 300px;"> </div>
+                <div class="grid-item" style = "margin-left: 30px; margin-top: 20px;"><h3>  Having a bad day? <br> 
+                  Does it seem like nothing is working in ur favor? <br>
+                  That you feel like giving up? <br> Dont worry! We got you 🙌 <br> It’s ok not to be okay, but it’s not okay to stay that way. <br>
+                  So we are here to present you with a carefully curated playlist that will surely lift ur mood and make you look forward to the next day 🤗 <br>
+                   
+                    <a class="btn" href="https://youtube.com/playlist?list=PLvoNxhBHIlW-KtEPjD3DDs1MDs7xkVoTk">Watch</a></div>
+                </div>
+
+            <div style="background-color: #112D4E; margin-bottom: 0px;">
+                <h4>
+                    Created with love &hearts;
+                    <br>
+                    <a href ="https://kavyakhare.github.io/Personal_portfolio/">Know more about me.</a>
+                </h4></div>
+
+
+                <audio controls autoplay>
+                  <source src="horse.ogg" type="audio/ogg">
+                  <source src="calm_music.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+                </audio>
+    </body>
+</html>
