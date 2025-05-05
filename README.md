@@ -50,10 +50,29 @@ Deployed via Firebase Hosting for seamless access and scalability.
 
 ![Screenshot 2025-05-06 013313](https://github.com/user-attachments/assets/785d9f80-df0a-4a64-9dcf-77519d502591)
 
+![Screenshot 2025-05-06 013450](https://github.com/user-attachments/assets/b1509dab-bf3f-430f-9769-64af7bab7f7c)
 
+![Screenshot 2025-05-06 013508](https://github.com/user-attachments/assets/99cae4b8-2ecd-40ab-97f0-44619c803dcf)
+
+![Screenshot 2025-05-06 013402](https://github.com/user-attachments/assets/2db388b2-fb6e-4d87-8206-ea3a1360035c)
+
+![Screenshot 2025-05-06 013434](https://github.com/user-attachments/assets/90753190-0df8-42df-ae10-db4c250c2de1)
+
+![Screenshot 2025-05-06 013605](https://github.com/user-attachments/assets/80148dae-415b-45c6-b49d-6f1eb414b8c4)
+
+![Screenshot 2025-05-06 013605](https://github.com/user-attachments/assets/5c81726e-8e5f-48b5-9946-fc81ef94b23e)
 
 Made with ❤️
 Let’s prioritize mental health, together.
+
+
+
+
+
+
+
+
+
 
 
 
