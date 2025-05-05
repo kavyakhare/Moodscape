@@ -1,4 +1,8 @@
+**MOODSCAPE**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🌈 MoodScape**
+
 
 MoodScape is a personal wellness companion, crafted with love to uplift your spirit and help you prioritize your mental health. Whether you're seeking peace, motivation, or just someone to talk to — MoodScape has your back!
 
