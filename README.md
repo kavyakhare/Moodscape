@@ -60,10 +60,14 @@ Deployed via Firebase Hosting for seamless access and scalability.
 
 ![Screenshot 2025-05-06 013605](https://github.com/user-attachments/assets/80148dae-415b-45c6-b49d-6f1eb414b8c4)
 
-![Screenshot 2025-05-06 013605](https://github.com/user-attachments/assets/5c81726e-8e5f-48b5-9946-fc81ef94b23e)
+
+![Screenshot 2025-05-06 013548](https://github.com/user-attachments/assets/ba199630-ddfd-40d0-b033-070d4ed10630)
 
 Made with ❤️
 Let’s prioritize mental health, together.
+
+
+
 
 
 
