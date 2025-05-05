@@ -24,19 +24,23 @@ Take a break, invest in yourself, and fall in love with you all over again.
 
 💌 Typeform Feedback – Connect with us or share your thoughts.
 
-**💻 Built with**
+**🛠️ Built With**
 
-Languages and Tools:
-css3 firebase git html5 javascript webpack
+Languages & Tools:
 
-Technologies used in the project:
+HTML5
 
-CSS
-HTML
+CSS3
+
 JavaScript
-Firebase
-webpack
-Typeform
+
+Firebase (Authentication, Hosting, Database)
+
+Webpack (Module Bundler)
+
+Git
+
+Typeform (Feedback Integration)
 
 **🚀 Deployment**
 
@@ -44,6 +48,7 @@ Deployed via Firebase Hosting for seamless access and scalability.
 
 **📸 Screenshots**
 
+![Screenshot 2025-05-06 013313](https://github.com/user-attachments/assets/785d9f80-df0a-4a64-9dcf-77519d502591)
 
 
 
